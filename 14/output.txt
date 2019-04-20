@@ -1,0 +1,6 @@
+temp1=e-f
+temp2=a-b-c
+temp4=x
+temp5=d+a+b
+temp6=y+d+a+b-h*temp1
+temp7=temp4-y

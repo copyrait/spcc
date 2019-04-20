@@ -1,0 +1,42 @@
+Write a program to generate symbol table of two pass assembler.
+
+
+Write a program to generate literal  table of two pass assembler.
+
+
+Write a program to generate base table of two pass assembler 
+
+
+Write a program to generate MDT for macro processor
+
+
+Write a program to generate MNT for macro processor
+
+
+Write a program to generate ALA for macro processor
+
+
+
+Write a program to compute first of given grammar.
+
+Write a program to compute follow of given grammar.
+
+
+Write a Lex Program to number of letters, words, digit, lines and black spaces in given file.
+
+Write a Lex program to recognize valid identifiers, keywords in given input file.
+
+Write a Lex program to recognize a word starting with ‘a’ and ending with ‘b’.
+
+Write a LEX YACC program to recognize a valid arithmetic expression.
+
+Write a LEX YACC Program to implement scientific calculator.
+
+Write a program to implement common sub expression elimination optimization technique.
+
+
+Write a program to implement dead code elimination optimization technique.
+
+Write a program to implement 3 address code.
+
+Write a program to implement code generation. 

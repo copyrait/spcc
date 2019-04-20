@@ -1,0 +1,12 @@
+MACRO
+ADDM	&arg0,&arg1
+A	1,&arg0
+A	2,&arg1
+MEND
+MACRO
+DATA1 	DC 	F'4'
+DATA2	DC	F'5'
+ADDM	DATA1,DATA2
+END
+
+

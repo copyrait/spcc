@@ -1,3 +1,17 @@
+# Run lex
+
 lex filename.l
 gcc lex.yy.c -ll
 ./a.out 
+
+# Run lex and yacc
+flex file.l
+yacc -d file.y
+gcc lex.yy.c y.tab.c -ll -lm
+./a.out
+
+# Run Java
+javac file.java
+java file
+
+
